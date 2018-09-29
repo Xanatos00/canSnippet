@@ -57,7 +57,7 @@ switch ($lng) {
         </div>
         <center>
             <br /><br />
-        <button type="button" class="homeButton" onclick='document.location.href="/";'><?php echo($messages['home']); ?></button>
+        <button type="button" class="homeButton" onclick='document.location.href="../index.php";'><?php echo($messages['home']); ?></button>
         </center>
 
     </body>
